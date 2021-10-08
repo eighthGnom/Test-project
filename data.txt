@@ -1,0 +1,90 @@
+textbook
+Map of Earth
+Ivan Popov Ivanovich
+EN
+343
+2011
+100
+geografia
+5
+fictionbook
+Fallen orden
+Vasya Petrov Bogdanovich
+UA
+544
+2018
+120
+fantastica
+8
+fictionbook
+Burn in hell
+Kate Hartley Envir
+EN
+202
+2005
+90
+fantastica
+9
+textbook
+Grammatic
+Jay Martin Hoppend
+EN
+153
+2001
+50
+english
+6
+textbook
+Ulearn
+Alexandr Sedov Alexandrovich
+UA
+98
+2007
+213
+programing
+2
+textbook
+Audio Lern
+Timur Sorokin Glebovich
+UA
+102
+2008
+100
+english
+3
+fictionbook
+Astron
+Benjamin Mill Mikey
+EN
+278
+2012
+99
+fantastica
+9.9
+fictionbook
+Killer
+Duncan Howard Munoz
+EN
+242
+2012
+99
+fantastica
+4
+textbook
+Earth in space
+Eva Patel Ava
+EN
+70
+2010
+88
+geografia
+10
+fictionbook
+Way
+Stella Duffy Ball
+EN
+288
+2020
+99
+fantastica
+9.5
